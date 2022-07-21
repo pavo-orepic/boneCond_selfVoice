@@ -27,4 +27,4 @@ For Study 3 (folder boneCond3):
 
 
 
-*voiceDatabase.xlsx* contains acoustic parameters of all participants' voices
+*voiceDatabase.xlsx* contains acoustic parameters of all participants' voices of Study 3 used in voice space analysis
